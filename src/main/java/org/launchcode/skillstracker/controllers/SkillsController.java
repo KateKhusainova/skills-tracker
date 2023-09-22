@@ -20,6 +20,7 @@ public class SkillsController {
                "<li>JavaScript</li>" +
                "<li>Python</li>" +
                "</ol>" +
+               "<a href='/form'><input type='submit' value='Fill in the form'/></a>" +
                "</body>" +
                "</html>";
    }
