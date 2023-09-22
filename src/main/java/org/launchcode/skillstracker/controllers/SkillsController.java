@@ -29,7 +29,7 @@ public class SkillsController {
        return "<html>" +
                "<body>" +
                "<form method='post'>" +
-               //"<form action='table' method='post'>" +
+               //git"<form action='table' method='post'>" +
                "<label for='name'>Name:</label><br>" +
                "<input type ='text' name='name'><br>" +
                "<label>My favorite language:</label><br>" +
